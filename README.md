@@ -1,4 +1,4 @@
-## E aí, sou Victor Haonny, mas pode me chamar de Haonny!
+## Eae, sou Victor Haonny, mas pode me chamar de Haonny!
 
 Atualmente, estou estudando Ciência da Computação na UESC.
 
