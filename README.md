@@ -4,12 +4,18 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 
 ### Minhas Habilidades e o que estou aprendendo:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Haonny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Haonny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Haonny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Haonny-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+  <!-- Ferramentas e tecnologias relacionadas ao desenvolvimento -->
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Git & GitHub" />
+  </a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,kali" alt="VSCode, Linux & Kali" />
+  </a>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,arduino,c,bash,html,css,javascript" alt="Programming & Development Tools" />
+  </a>
+</p>
+
 
 ### Contatos e Redes Sociais
 
