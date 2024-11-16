@@ -4,7 +4,7 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 
 ### Minhas Habilidades e o que estou aprendendo:
 
-<!-- Ferramentas e tecnologias relacionadas ao desenvolvimento -->
+#### Controle de Versão e Repositórios:
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </a>
@@ -14,7 +14,8 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 <a href="https://about.gitlab.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
 </a>
-<br>
+
+#### Ferramentas de Desenvolvimento e Sistemas Operacionais:
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
 </a>
@@ -24,7 +25,8 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 <a href="https://www.kali.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 </a>
-<br>
+
+#### Linguagens de Programação:
 <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </a>
@@ -37,6 +39,8 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 </a>
+
+#### Desenvolvimento Web:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
 </a>
