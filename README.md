@@ -26,16 +26,16 @@ Atualmente, estou estudando Ciência da Computação na UESC.
     <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
 </a>
 
-#### Linguagens de Programação:
+#### Linguagens de Programação e utilitarios:
 <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
 </a>
 <a href="https://en.cppreference.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </a>
+<a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+</a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
 </a>
