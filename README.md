@@ -21,11 +21,7 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 </a>
 <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-</a>
-<a href="https://www.kali.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
-</a>
-
+    
 #### Linguagens de Programação e utilitarios:
 <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
