@@ -10,7 +10,7 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 </a>
 <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+
 #### Ferramentas de Desenvolvimento e Sistemas Operacionais:
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
