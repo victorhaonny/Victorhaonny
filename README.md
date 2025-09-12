@@ -58,7 +58,7 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 
 ### Sobre Mim
 
-Resumindo: Cybersegurança, robótica e computação gráfica, Game Dev são o que me trouxe para essa área.
+Resumindo: Cybersegurança, robótica , Game Dev , Pericia, são o que me trouxe para essa área.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
