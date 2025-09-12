@@ -11,10 +11,6 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-<a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
-</a>
-
 #### Ferramentas de Desenvolvimento e Sistemas Operacionais:
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
@@ -23,9 +19,6 @@ Atualmente, estou estudando Ciência da Computação na UESC.
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     
 #### Linguagens de Programação e utilitarios:
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</a>
 <a href="https://en.cppreference.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
 </a>
@@ -34,17 +27,6 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 </a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-</a>
-
-#### Desenvolvimento Web:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
 </a>
 
 ### Contatos e Redes Sociais
