@@ -42,6 +42,26 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 
 Resumindo: Cybersegurança, robótica , Game Dev , Pericia, são o que me trouxe para essa área.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&theme=dark"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img
+      align="left"
+      alt="Top Languages"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&theme=dark"
+    />
+  </a>
+</p>
+
 
