@@ -56,8 +56,6 @@ Atualmente, estou estudando Ciência da Computação na UESC.
   />
 </p>
 
-
-
 ### Contatos e Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
@@ -70,7 +68,6 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 ### Sobre Mim
 
 Resumindo: Cybersegurança, robótica , Game Dev , são o que me trouxe para essa área.
-
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img
@@ -78,7 +75,7 @@ Resumindo: Cybersegurança, robótica , Game Dev , são o que me trouxe para ess
       alt="GitHub Stats"
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&title_color=a855f7&text_color=c084fc&icon_color=a855f7&bg_color=0d1117"
     />
   </a>
 
@@ -88,9 +85,8 @@ Resumindo: Cybersegurança, robótica , Game Dev , são o que me trouxe para ess
       alt="Top Languages"
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&title_color=a855f7&text_color=c084fc&icon_color=a855f7&bg_color=0d1117"
     />
   </a>
-</p>
 
 
