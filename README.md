@@ -2,32 +2,37 @@
 
 Atualmente, estou estudando Ciência da Computação na UESC.
 
-### Minhas Habilidades e o que estou aprendendo:
+### Tecnologias
 
-#### Controle de Versão e Repositórios:
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<p align="left">
+  <!-- Controle de versão -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
 
-#### Ferramentas de Desenvolvimento e Sistemas Operacionais:
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-    
-#### Linguagens de Programação e utilitarios:
-<a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-</a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-</a>
+  <!-- Ferramentas / SO -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  </a>
+
+  <!-- Linguagens / Utilitários -->
+  <a href="https://en.cppreference.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
+  </a>
+</p>
+
 
 ### Contatos e Redes Sociais
 
