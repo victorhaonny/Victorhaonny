@@ -5,33 +5,57 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 ### Tecnologias
 
 <p align="left">
-  <!-- Controle de versão -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-
-  <!-- Ferramentas / SO -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
-  </a>
-
-  <!-- Linguagens / Utilitários -->
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" alt="C"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
-  </a>
+  <img 
+      alt="Git"
+      title="Git" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+      alt="GitHub"
+      title="GitHub"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+  />
+  <img 
+      alt="VSCode"
+      title="VSCode"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+  <img 
+      alt="Linux"
+      title="Linux"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+  />
+  <img 
+      alt="C"
+      title="C"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+  />
+  <img 
+      alt="Arduino"
+      title="Arduino"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+  />
+  <img 
+      alt="Bash"
+      title="Bash"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+  />
 </p>
+
 
 
 ### Contatos e Redes Sociais
