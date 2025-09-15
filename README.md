@@ -69,7 +69,7 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 
 ### Sobre Mim
 
-Resumindo: Cybersegurança, robótica , Game Dev , Pericia, são o que me trouxe para essa área.
+Resumindo: Cybersegurança, robótica , Game Dev , são o que me trouxe para essa área.
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
