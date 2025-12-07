@@ -65,28 +65,4 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/seu-usuario/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vhnaraujo.cic@uesc.br)
 
-### Sobre Mim
-
-Resumindo: Cybersegurança, robótica , Game Dev , são o que me trouxe para essa área.
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?username=victorhaonny&show_icons=true&title_color=a855f7&text_color=c084fc&icon_color=a855f7&bg_color=0d1117"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img
-      align="left"
-      alt="Top Languages"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhaonny&layout=compact&title_color=a855f7&text_color=c084fc&icon_color=a855f7&bg_color=0d1117"
-    />
-  </a>
-
 
