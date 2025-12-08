@@ -20,3 +20,5 @@ Atualmente, estou estudando Ciência da Computação na UESC.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VoltOnda)
 
 ---
+
+--.- ..- . / -.. . ..- ... / - . / .- -... . -. -.-. --- .
