@@ -1,4 +1,4 @@
-## Salvee, Meu nome é Haonny!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D800&width=435&lines=Salvee%2C+Meu+nome+%C3%A9+Haonny)](https://git.io/typing-svg)
 
 Atualmente, estou estudando Ciência da Computação na UESC.
 
